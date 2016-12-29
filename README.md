@@ -5,6 +5,7 @@ A collection temperature and humidity examples, based on Sense Hat supplied samp
 Displays temperature and relative humidity at once on the Sense Hat 8x8 LED display
 - 2 digit temperature
 - 2 digit relative humidity
+![LED Display](images/RPI-thermometer.jpg)
 
 ## thermo-bars.py
 Displays a 2 column bar chart of temperature and relative humidity.
