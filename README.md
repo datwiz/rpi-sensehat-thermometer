@@ -26,4 +26,5 @@ Note that the callibration has not been validated beyond 28C to 32C.
 Collection of 4x4 pixel digits used for displaying 2 digits on 2 lines of the 8x8 Sense Hat display
 - small_nums.thin.py displays a set of 3x4 pixel digits, giving a leading empy line between digits
 - small_nums.think.py displays a set of 4x4 pixel digits, leaving no spaces between digits
+
 ![4x4 Digits](images/digits_4x4.png)
