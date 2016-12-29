@@ -7,6 +7,7 @@ Displays temperature and relative humidity at once on the Sense Hat 8x8 LED disp
 - 2 digit relative humidity
 
 ![LED Display](images/RPI-thermometer.jpg)
+31'C and 75% Humidity
 
 ## thermo-bars.py
 Displays a 2 column bar chart of temperature and relative humidity.
